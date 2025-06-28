@@ -12,7 +12,7 @@
     <a href='https://customtkinter.tomschimansky.com/'>Custotkinter</a>.
 </p>
 
-<img src='/static/icon/screen.png'>
+<img src='/static/screen.png'>
 
 <h2>Зміст:</h2>
 <ol>
