@@ -71,7 +71,28 @@
 <ul>
     <li>
         <h5>
-            customtkinter
+            json
+        </h5>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>
+            colorama
+        </h5>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>
+            os
+        </h5>
+    </li>
+</ul>
+<ul>
+    <li>
+        <h5>
+            custotkinter
         </h5>
     </li>
 </ul>
@@ -85,17 +106,9 @@
 <ul>
     <li>
         <h5>
-            timezonefinder
+            datetime
         </h5>
     </li>
 </ul>
-<ul>
-    <li>
-        <h5>
-            tzdata
-        </h5>
-    </li>
-</ul>
----
 <h3 id='download-project'>Розгортання проєкту</h3>
 
